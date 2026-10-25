@@ -1,0 +1,6 @@
+{
+  "name": "Contrapuntal - DAW Counterpoint Assistant",
+  "description": "An interactive digital audio workstation and algorithmic counterpoint assistant for musicians. Compose Cantus Firmus melodies and generate Bach-style and modern pandiatonic counterpoint lines with solo/mute mixing and dual piano/string sound engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
